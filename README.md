@@ -1,4 +1,4 @@
-# Premium Liquor Store Website
+# LIQUOR FOREVER - Premium Liquor Store Website
 
 A full-featured e-commerce website for a liquor store with admin panel, user authentication, shopping cart, and secure payment processing.
 
@@ -188,4 +188,3 @@ liquor-store-website/
 ## License
 
 This project is private and proprietary.
-
